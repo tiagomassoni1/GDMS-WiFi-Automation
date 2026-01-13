@@ -13,7 +13,7 @@ Your CSV file with network data
 Step 2: Install Dependencies
 Make sure Python is installed:
 bashpython --version
-# Should show: Python 3.8 or higher
+
 If you don't have Python:
 
 Download from: https://python.org
